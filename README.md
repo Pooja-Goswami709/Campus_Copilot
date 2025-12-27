@@ -49,7 +49,6 @@ Hackathons & workshops
 
 Campus activity updates
 
-<img width="1339" height="617" alt="V2" src="https://github.com/user-attachments/assets/2300bb72-434f-42c0-a3d3-0dda411e64d0" />
 
 ## 🤖 Ask Copilot (Campus Assistant)
 
@@ -64,9 +63,6 @@ Available throughout the site
 Contact form for student queries
 
 Support email & phone details
-
-
-<img width="1337" height="618" alt="V3" src="https://github.com/user-attachments/assets/806697f0-1eca-4225-8f49-0825ccf33997" />
 
 
 ## 📱 Responsive Design
@@ -129,7 +125,11 @@ Campus_Copilot/
 
 Login Page, Dashboard, Reminders, Campus Assistant
 
-(Screenshots included in the repository for visual reference)
+<img width="1339" height="617" alt="V2" src="https://github.com/user-attachments/assets/2300bb72-434f-42c0-a3d3-0dda411e64d0" />
+
+<img width="1337" height="618" alt="V3" src="https://github.com/user-attachments/assets/806697f0-1eca-4225-8f49-0825ccf33997" />
+
+
 
 ## 🚀 How to Run the Project
 
