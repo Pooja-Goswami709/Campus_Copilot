@@ -6,8 +6,11 @@ It provides reminders, upcoming deadlines, club events, notices, and an AI-power
 ## 📌 Features
 
 🔐 Authentication
+
   Google Sign-In
+  
   Email & Password login
+  
   Secure login & signup flow
 
 
