@@ -83,7 +83,7 @@ CSS
 
 JavaScript
 
-Backend (optional / extendable):
+Backend
 
 Python (Flask)
 
